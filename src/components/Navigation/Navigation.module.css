@@ -7,7 +7,7 @@
     justify-content: space-between;
   }
   
-  .ncleaavigation ul{
+  .navigation ul{
     display: flex;
     gap: 24px;
     list-style-type: none;
